@@ -43,6 +43,7 @@ personalFinanceManager/
 ├── vite.config.ts         # Configuración Vite
 └── package.json           # Scripts y dependencias
 ```
+## Demo:
 
 ## Configuración e instalación
 
